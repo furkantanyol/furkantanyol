@@ -1,6 +1,6 @@
 # Furkan Tanyol
 
-📍 Amsterdam | Istanbul
+📍 Amsterdam • Istanbul
 
 Building at scale at **[Booking.com](https://booking.com)** & shipping products of interest on the side.
 
