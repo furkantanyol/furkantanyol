@@ -19,6 +19,7 @@ Building at scale at **[Booking.com](https://booking.com)** & shipping products 
 
 - 🍇 **[Rizzberry](https://rizzberry.app)** — (closed source) AI dating coach in your pocket.
 - 🎨 **[aitelier](https://aitelier.sh)** — CLI for managing LLM fine-tuning data. Collect, rate, format, train, evaluate.
+- 🏋️ **[HevyCoach](https://github.com/furkantanyol/hevy-coach)** - AI personal training system that adds coaching intelligence on top of workout data via MCP.
 - 🌍 **[multilingual](https://github.com/furkantanyol/multilingual)** — Automated translations CLI. Add a translation key once, propagate to all locale files instantly.
 
 ## Connect
