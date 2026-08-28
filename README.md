@@ -18,7 +18,7 @@
   ## Projects
 
   - 🍇 **[Rizzberry](https://rizzberry.app)** — (closed source) AI dating coach in your pocket.
-  - 🇳🇱 **[TaskRunner](https://task-runner.nl)** — (closed source) Dutch two-sided consumer marketplace. Onboarding, payments, KYC, dispute flow — all solo.
+  - 🇳🇱 **[TaskRunner](https://task-runner.nl)** — (closed source) Dutch two-sided consumer marketplace. Onboarding, payments, KYC, dispute flow.
   - 🏋️ **[HevyCoach](https://github.com/furkantanyol/hevy-coach)** — AI personal training system that adds coaching intelligence on top of workout data via MCP.
   - ⌚ **[Stride](https://github.com/furkantanyol/stride-watchface)** — Minimalist Garmin Forerunner watch face that nudges you to 10k steps a day. Monkey C, one-font LCD design.
   - 🎨 **[aitelier](https://aitelier.sh)** — CLI for managing LLM fine-tuning data. Collect, rate, format, train, evaluate.
