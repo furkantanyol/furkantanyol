@@ -1,6 +1,7 @@
 # Furkan Tanyol
 
-Full-stack engineer for web and mobile. Ten years of shipping software, most recently on Flights at Booking.com. Client work through my studio, [Antimorphic](https://antimorphic.com).
+Full-stack engineer for web and mobile. Ten years of shipping software, most recently on Flights at Booking.com. 
+Client work through my studio, [Antimorphic](https://antimorphic.com).
 
 React · React Native · TypeScript · Node.js · AI
 
