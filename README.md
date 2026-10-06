@@ -13,4 +13,4 @@ React · React Native · TypeScript · Node.js · AI
 - [Stride](https://github.com/furkantanyol/stride-watchface): Garmin watch face for 10,000 steps a day
 - [multilingual](https://github.com/furkantanyol/multilingual): translations CLI, add a key once and every locale gets it
 
-[furkantanyol.com](https://furkantanyol.com) · [hello@tanyol.dev](mailto:hello@tanyol.dev) · [LinkedIn](https://www.linkedin.com/in/furkan-tanyol) · [X](https://x.com/FurkanTanyol)
+[furkantanyol.com](https://furkantanyol.com) · [hello@furkantanyol.com](mailto:hello@furkantanyol.com) · [LinkedIn](https://www.linkedin.com/in/furkan-tanyol) · [X](https://x.com/FurkanTanyol)
