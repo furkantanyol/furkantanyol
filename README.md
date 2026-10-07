@@ -11,7 +11,7 @@ React · React Native · TypeScript · Node.js · AI
 - Secure Code Warrior, Platform · 2020 to 2023
 - Cluey Learning, EdTech · 2019 to 2020
 - Incent Loyalty, Crypto rewards · 2018 to 2019
-- Valensas, iOS apps · 2015
+- Valensas, iOS apps · 2015 to 2017
 
 ### Projects
 
